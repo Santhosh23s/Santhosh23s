@@ -20,7 +20,7 @@
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/>
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Santhosh23s's Stats](https://github-readme-stats.vercel.app/api?username=Santhosh23s&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/truedev-r?theme=dark&font=Marcellus&ext=heatmap)
 
